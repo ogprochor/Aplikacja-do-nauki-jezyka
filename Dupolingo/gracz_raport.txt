@@ -1,0 +1,71 @@
+Raport użytkownika: gracz
+Punkty globalne: 50
+Najlepsza seria zwycięstw: 1
+
+Słowa w katalogach:
+
+Trudne słowa:
+ - door
+ - roof
+ - wall
+ - floor
+ - room
+ - kitchen
+ - bathroom
+ - bedroom
+ - living room
+ - hall
+ - balcony
+ - garage
+ - light
+ - chair
+ - table
+ - school
+ - teacher
+ - student
+ - class
+ - homework
+ - desk
+ - chair
+ - blackboard
+ - notebook
+ - pen
+ - pencil
+ - eraser
+ - book
+ - lesson
+ - subject
+ - exam
+ - lunch
+ - break
+ - grade
+ - bag
+ - hobby
+ - game
+ - movie
+ - music
+ - travel
+ - relax
+ - reading
+ - sports
+ - friends
+ - party
+ - picnic
+ - beach
+ - dance
+ - swimming
+ - drawing
+ - fishing
+ - gardening
+ - camping
+ - play
+ - run
+
+Średnie słowa:
+ - house
+ - window
+ - garden
+ - stairs
+ - sofa
+
+Brak łatwych słów.

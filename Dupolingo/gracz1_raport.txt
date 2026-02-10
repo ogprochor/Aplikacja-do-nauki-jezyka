@@ -1,0 +1,78 @@
+Raport użytkownika: gracz1
+Punkty globalne: 50
+Najlepsza seria zwycięstw: 1
+
+Słowa w katalogach:
+
+Katalog: domnowy
+ - living room (Trudność: średni)
+ - stairs (Trudność: średni)
+ - window (Trudność: trudny)
+ - hall (Trudność: średni)
+ - bedroom (Trudność: trudny)
+
+Trudne słowa:
+ - house
+ - door
+ - window
+ - roof
+ - wall
+ - floor
+ - room
+ - kitchen
+ - garden
+ - bathroom
+ - bedroom
+ - balcony
+ - garage
+ - light
+ - table
+ - sofa
+ - school
+ - teacher
+ - student
+ - class
+ - homework
+ - desk
+ - chair
+ - blackboard
+ - notebook
+ - pen
+ - pencil
+ - eraser
+ - book
+ - lesson
+ - subject
+ - exam
+ - lunch
+ - break
+ - grade
+ - bag
+ - hobby
+ - game
+ - movie
+ - music
+ - travel
+ - relax
+ - reading
+ - sports
+ - friends
+ - party
+ - picnic
+ - beach
+ - dance
+ - swimming
+ - drawing
+ - fishing
+ - gardening
+ - camping
+ - play
+ - run
+
+Średnie słowa:
+ - living room
+ - hall
+ - stairs
+ - chair
+
+Brak łatwych słów.

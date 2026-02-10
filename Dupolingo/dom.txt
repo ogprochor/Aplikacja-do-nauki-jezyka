@@ -1,0 +1,20 @@
+house
+door
+window
+roof
+wall
+floor
+room
+kitchen
+garden
+bathroom
+bedroom
+living room
+hall
+stairs
+balcony
+garage
+light
+chair
+table
+sofa

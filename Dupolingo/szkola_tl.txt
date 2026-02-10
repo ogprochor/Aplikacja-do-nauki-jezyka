@@ -1,0 +1,20 @@
+szkola
+nauczyciel
+uczen
+klasa
+praca domowa
+biurko
+krzeslo
+tablica
+zeszyt
+dlugopis
+olowek
+gumka
+ksiazka
+lekcja
+przedmiot
+egzamin
+sniadanie
+przerwa
+ocena
+plecak

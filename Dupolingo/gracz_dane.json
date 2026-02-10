@@ -1,0 +1,248 @@
+{
+    "nazwa": "gracz",
+    "punkty_globalne": 50,
+    "streak": 1,
+    "max_streak": 1,
+    "slowa": [
+        {
+            "tekst": "house",
+            "tlumaczenia": [
+                "dom"
+            ],
+            "kategorie": [
+                "dom",
+                "Wszystkie Słowa",
+                "Trudne"
+            ],
+            "trudnosc": "trudny"
+        },
+        {
+            "tekst": "door",
+            "tlumaczenia": [
+                "drzwi"
+            ],
+            "kategorie": [
+                "dom",
+                "Wszystkie Słowa",
+                "Trudne"
+            ],
+            "trudnosc": "trudny"
+        },
+        {
+            "tekst": "window",
+            "tlumaczenia": [
+                "okno"
+            ],
+            "kategorie": [
+                "dom",
+                "Wszystkie Słowa",
+                "Trudne"
+            ],
+            "trudnosc": "trudny"
+        },
+        {
+            "tekst": "roof",
+            "tlumaczenia": [
+                "dach"
+            ],
+            "kategorie": [
+                "dom",
+                "Wszystkie Słowa",
+                "Trudne"
+            ],
+            "trudnosc": "trudny"
+        },
+        {
+            "tekst": "wall",
+            "tlumaczenia": [
+                "sciana"
+            ],
+            "kategorie": [
+                "dom",
+                "Wszystkie Słowa",
+                "Trudne"
+            ],
+            "trudnosc": "trudny"
+        },
+        {
+            "tekst": "floor",
+            "tlumaczenia": [
+                "podloga"
+            ],
+            "kategorie": [
+                "dom",
+                "Wszystkie Słowa",
+                "Trudne"
+            ],
+            "trudnosc": "trudny"
+        },
+        {
+            "tekst": "room",
+            "tlumaczenia": [
+                "pokoj"
+            ],
+            "kategorie": [
+                "dom",
+                "Wszystkie Słowa",
+                "Trudne"
+            ],
+            "trudnosc": "trudny"
+        },
+        {
+            "tekst": "kitchen",
+            "tlumaczenia": [
+                "kuchnia"
+            ],
+            "kategorie": [
+                "dom",
+                "Wszystkie Słowa",
+                "Trudne"
+            ],
+            "trudnosc": "trudny"
+        },
+        {
+            "tekst": "garden",
+            "tlumaczenia": [
+                "ogrod"
+            ],
+            "kategorie": [
+                "dom",
+                "Wszystkie Słowa",
+                "Trudne"
+            ],
+            "trudnosc": "trudny"
+        },
+        {
+            "tekst": "bathroom",
+            "tlumaczenia": [
+                "lazienka"
+            ],
+            "kategorie": [
+                "dom",
+                "Wszystkie Słowa",
+                "Trudne"
+            ],
+            "trudnosc": "trudny"
+        },
+        {
+            "tekst": "bedroom",
+            "tlumaczenia": [
+                "sypialnia"
+            ],
+            "kategorie": [
+                "dom",
+                "Wszystkie Słowa",
+                "Trudne"
+            ],
+            "trudnosc": "trudny"
+        },
+        {
+            "tekst": "living room",
+            "tlumaczenia": [
+                "salon"
+            ],
+            "kategorie": [
+                "dom",
+                "Wszystkie Słowa",
+                "Trudne"
+            ],
+            "trudnosc": "trudny"
+        },
+        {
+            "tekst": "hall",
+            "tlumaczenia": [
+                "hol"
+            ],
+            "kategorie": [
+                "dom",
+                "Wszystkie Słowa",
+                "Trudne"
+            ],
+            "trudnosc": "trudny"
+        },
+        {
+            "tekst": "stairs",
+            "tlumaczenia": [
+                "schody"
+            ],
+            "kategorie": [
+                "dom",
+                "Wszystkie Słowa",
+                "Trudne"
+            ],
+            "trudnosc": "trudny"
+        },
+        {
+            "tekst": "balcony",
+            "tlumaczenia": [
+                "balkon"
+            ],
+            "kategorie": [
+                "dom",
+                "Wszystkie Słowa",
+                "Trudne"
+            ],
+            "trudnosc": "trudny"
+        },
+        {
+            "tekst": "garage",
+            "tlumaczenia": [
+                "garaz"
+            ],
+            "kategorie": [
+                "dom",
+                "Wszystkie Słowa",
+                "Trudne"
+            ],
+            "trudnosc": "trudny"
+        },
+        {
+            "tekst": "light",
+            "tlumaczenia": [
+                "swiatlo"
+            ],
+            "kategorie": [
+                "dom",
+                "Wszystkie Słowa",
+                "Trudne"
+            ],
+            "trudnosc": "trudny"
+        },
+        {
+            "tekst": "chair",
+            "tlumaczenia": [
+                "krzeslo"
+            ],
+            "kategorie": [
+                "dom",
+                "Wszystkie Słowa",
+                "Trudne"
+            ],
+            "trudnosc": "trudny"
+        },
+        {
+            "tekst": "table",
+            "tlumaczenia": [
+                "stol"
+            ],
+            "kategorie": [
+                "dom",
+                "Wszystkie Słowa",
+                "Trudne"
+            ],
+            "trudnosc": "trudny"
+        },
+        {
+            "tekst": "sofa",
+            "tlumaczenia": [
+                "kanapa"
+            ],
+            "kategorie": [
+                "dom",
+                "Wszystkie Słowa",
+                "Trudne"
+            ],
+            "trudnosc": "trudny"
+        }
+    ]
+}
